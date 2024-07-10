@@ -67,3 +67,14 @@ or
 pip3 install example
 ```
 (replace `example` with the given module name in the error code)
+
+## Google Image API
+
+The program utilizes the Google Custom Search API to enhance its functionality with image search capabilities.
+
+### Usage Notes:
+- The API provides generous daily limits suitable for individual use.
+- The program can function without this API but benefits from enhanced features when integrated.
+
+For more details on setting up and using the Google Custom Search API, visit [Google Custom Search API Overview](https://developers.google.com/custom-search/v1/overview).
+
