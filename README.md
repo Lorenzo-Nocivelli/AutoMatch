@@ -1,7 +1,7 @@
 # AutoMatch
 A Python program that uses SQLite and Tkinter to search for the user's "ideal" car based on certain parameters. Aimed at automotive enthusiasts.
 
-This program was used as an IB HL CS IA submission, which also doubled as a passion project.
+Please note: This program was used as an IB HL CS IA submission, which also doubled as a passion project. This is also reflected in the Python file's comments.
 
 ## Install
 
